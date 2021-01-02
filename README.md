@@ -1,6 +1,6 @@
 # Project: Room Homepage
 
-## Hello!
+**Hello!**
 
 This is a Front-end challenge from [Frontend Mentor](https://www.frontendmentor.io) focused on building an e-commerce homepage for a furniture company.
 
